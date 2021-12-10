@@ -1,2 +1,2 @@
-# zzure-project-resume
+# azure-project-resume
 Azure based Resume Website for Microsoft FRT Project
